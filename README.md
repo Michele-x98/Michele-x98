@@ -1,19 +1,16 @@
 ### Hi there, I'm Michele Benedetti 👋
 
 ## I'm a Student, Developer and Automotive enthusiast!
-- 👨‍💻 I'm a Student of ComputerScience at the University of Camerino [Unicam][unicam]!
+- 👨‍💻 I'm a Student of ComputerScience at the University of Camerino!
 - 📱  I'm always looking for new technologies
 - 🏎️ Passionate about Automotive and V-Cars
 
 ### Connect with me:
 
-[<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/Gmail.svg" />][email]
-[<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/Facebook.svg" />][facebook]
-[<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/LinkedIn.svg" />][linkedin]
-[<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/GitHub.svg" />][github]
-[<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/Instagram.svg" />][instagram]
-
-<br />
+[<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
+[<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg"/>][email]
+[<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <details>
     <summary> ⚡ Github Stats </summary>
@@ -33,5 +30,4 @@
 [email]: michelebenx98@gmail.com
 [facebook]: https://www.facebook.com/michele.benedetti.10
 [linkedin]: https://www.linkedin.com/in/michele-benedetti-2b44681a6/
-[github]: https://github.com/Michele-x98
 [instagram]: https://www.instagram.com/michele.benedetti/?hl=it
